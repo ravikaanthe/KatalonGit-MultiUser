@@ -4,5 +4,6 @@
    <name>Login Test</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>07379d8e-08db-4046-98e4-9089bafd289e</testCaseGuid>
 </TestCaseEntity>
