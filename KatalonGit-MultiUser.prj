@@ -4,8 +4,12 @@
    <name>KatalonGit-MultiUser</name>
    <tag></tag>
    <UUID>7b2fbfdb-acd6-4319-9a64-de0e61f9e57d</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.7.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\ravik\git\KatalonGit-MultiUser\KatalonGit-MultiUser.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
